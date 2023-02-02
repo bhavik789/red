@@ -7,9 +7,10 @@ Chapter 1
 </div>
 <div>
 Pythagoras Theorom
+area of circle
 </div>
 <div>
-page 56
+page 59
 </div>
 </body>
 </html>
